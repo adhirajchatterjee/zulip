@@ -2249,7 +2249,7 @@ yarl==1.9.3 \
     --hash=sha256:fe8080b4f25dfc44a86bedd14bc4f9d469dfc6456e6f3c5d9077e81a5fedfba7 \
     --hash=sha256:ff34cb09a332832d1cf38acd0f604c068665192c6107a439a92abfd8acf90fe2
     # via aiohttp
-zipp==3.17.0 \
+zipp==3.19.1 \
     --hash=sha256:0e923e726174922dce09c53c59ad483ff7bbb8e572e00c7f7c46b88556409f31 \
     --hash=sha256:84e64a1c28cf7e91ed2078bb8cc8c259cb19b76942096c8d7b84947690cabaf0
     # via
