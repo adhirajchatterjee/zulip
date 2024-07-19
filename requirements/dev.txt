@@ -2620,7 +2620,7 @@ semgrep==1.51.0 \
     --hash=sha256:c7d5cefe9c50345764d633d2d24b357f6753708928a5cf5c9fb807bf80d7e1a0 \
     --hash=sha256:f1386c233981cfbf5668352daf2d35d3bb370bf918a9d8180455d7a8ec2dc5e8
     # via -r requirements/dev.in
-sentry-sdk==1.38.0 \
+sentry-sdk==2.8.0 \
     --hash=sha256:0017fa73b8ae2d4e57fd2522ee3df30453715b29d2692142793ec5d5f90b94a6 \
     --hash=sha256:8feab81de6bbf64f53279b085bd3820e3e737403b0a0d9317f73a2c3374ae359
     # via -r requirements/common.in
